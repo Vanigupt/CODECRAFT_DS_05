@@ -1,10 +1,10 @@
 # CODECRAFT_DS_05
 This repository contains my submission for Task 5 of the Data Science Internship at CodeCraft Infotech. The main objective of this task was to analyze traffic accident data to identify patterns related to road conditions, weather, and time of day, and to visualize accident hotspots and other contributing factors.
 
-#📂 Dataset
+# 📂 Dataset
 The dataset used is the [U.S. Accidents (EDA) dataset](RTA Dataset.csv) from Kaggle. It includes information about over 2.8 million traffic accidents in the United States, covering attributes such as location, time, weather conditions, visibility, and severity.
 
-#🛠 Tools & Libraries Used
+# 🛠 Tools & Libraries Used
 🔹 Jupyter Notebook
 
 🔹 Pandas & NumPy
